@@ -1,0 +1,1 @@
+import{$ as e,C as t,G as n,H as r,J as i,K as a,Q as o,R as s,V as c,X as l,Y as u,_ as d,h as f,nt as p,rt as m,t as h,tt as g,z as _}from"./landmarks-BuuveUig.js";var v={...h,cottage:c,godown:a,stall:p,qilou:()=>e(15915424),archBridge:()=>s(8),crossing:r,streetArch:t,gateTower:d,drumTower:f,skiff:g,cart:_,truck:m,folk:n,pile:l,hay:i,poplar:o,oldTree:u};export{v as ASSETS};
